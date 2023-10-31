@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoseZhang03
 - 👀 I’m interested in programming, cybersecurity, and music.
 - 🌱 I’m currently learning Google Sheets API
-- 📫 How to reach me rosesarered.zhang@gmail.com
+- 📫 How to reach me rosesarered.zhang@gmail.com, rosezhang.miao@gmail.com, or rosez2@illinois.edu
 <!--- 💞️ I’m looking to collaborate on --->
 <!---
 RoseZhang03/RoseZhang03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
