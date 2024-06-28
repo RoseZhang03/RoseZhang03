@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoseZhang03
 - 👀 I’m interested in programming, cybersecurity, and music.
-- 🌱 I’m currently learning Google Sheets API
+- 🌱 I’m currently working on LLVM libc HeaderGen
 - 📫 How to reach me rosesarered.zhang@gmail.com, rosezhang.miao@gmail.com, or rosez2@illinois.edu
 <!--- 💞️ I’m looking to collaborate on --->
 <!---
